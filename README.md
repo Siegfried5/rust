@@ -1,0 +1,2 @@
+# rust
+My rust program
