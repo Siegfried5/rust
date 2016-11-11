@@ -1,3 +1,4 @@
 *.exe
 *.lock
 target
+testRust
